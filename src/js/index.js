@@ -11,5 +11,4 @@ botao.addEventListener("click", () => {
     } else {
         elementoPlataformas.classList.add("ativo")
     }
-
 });
