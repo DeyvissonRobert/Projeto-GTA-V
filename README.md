@@ -13,6 +13,7 @@
   </div>
 
 <div align="center" display="inline-block">
-<img  alt="imagem do projeto no desktop" src="https://github.com/DeyvissonRobert/Projeto-Starbucks/blob/main/img/DeskTop%20Starbucks.jpg">
-<img alt="imagem do projeto no mobile" src="https://github.com/DeyvissonRobert/Projeto-Starbucks/blob/main/img/mobile%20Starbucks.png">
+<img  alt="imagem do projeto no desktop" src="https://github.com/DeyvissonRobert/Projeto-GTA-V/blob/main/src/img/GTA%20V%20desktop.gif">
+  <br>
+<img alt="imagem do projeto no mobile" src="https://github.com/DeyvissonRobert/Projeto-GTA-V/blob/main/src/img/GTA%20V%20mobile.png">
 </div>
