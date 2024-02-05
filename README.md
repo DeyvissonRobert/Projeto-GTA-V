@@ -9,7 +9,7 @@
 
 ### ✧ Utilizando as linguagens ✧
 ✧ JavaScript \ HTML / CSS ✧
-### <p>👾Teste <a href="https://deyvissonrobert.github.io/Projeto-Starbucks/">Aqui</a>👾</p>
+### <p>👾Teste <a href="https://drs-illustrious-gta-v.netlify.app/">Aqui</a>👾</p>
   </div>
 
 <div align="center" display="inline-block">
