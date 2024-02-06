@@ -3,7 +3,7 @@
 # ✧ Projeto GTA V ✧
 <br> <br>
 
-## ✧ Esse foi um projeto que desenvolvi durante a jornada de treinamente da Semana do Zero ao Programador Contratado da <a href="https://github.com/devemdobro" target="_blank">Dev em Dobro</a>.🚀 ✧
+## ✧ Esse foi um projeto que desenvolvi durante a jornada de treinamento da Semana do Zero ao Programador Contratado do <a href="https://github.com/devemdobro" target="_blank">Dev em Dobro</a>.🚀 ✧
 
 ### ✧ Além de realizar o projeto conforme ensinado, para me diversificar, modifiquei a imagem e cor de fundo. Tambem tornei o primeiro botão, de PS5, funcional que o clicar, leva ao meu LinkedIn. ✧
 
