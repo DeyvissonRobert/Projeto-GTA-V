@@ -3,7 +3,7 @@
 
 <div align="center">
   
-# ✧ Projeto GTA V ✧
+# ✧ GTA V ✧
 <br> <br>
 
 ## ✧ Esse foi um projeto que desenvolvi durante a jornada de treinamento da Semana do Zero ao Programador Contratado do <a href="https://github.com/devemdobro" target="_blank">Dev em Dobro</a>.🚀 ✧
